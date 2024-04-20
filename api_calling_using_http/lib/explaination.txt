@@ -1,0 +1,21 @@
+API types:
+    1. Get
+        We get (read) data from server
+    2. Post
+        We can read or write data to or from server 
+    3. Update
+        We can update previous data from server 
+    4. Delete
+        We can delete data on server
+
+JSON
+    Simple object
+    Map<String, dynamic>
+
+    {
+    email: ""
+    username: ""
+    password: ""
+    }
+
+    
